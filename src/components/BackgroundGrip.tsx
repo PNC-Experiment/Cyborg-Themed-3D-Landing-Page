@@ -1,3 +1,9 @@
+/**
+ *  * @license
+  * SPDX-License-Identifier: Apache-2.0
+   */
+  
+
 import { useEffect, useRef, useState } from "react";
 
 export default function BackgroundGrid() {
