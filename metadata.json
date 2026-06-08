@@ -1,0 +1,6 @@
+{
+  "name": "Cyber-Evo Explorer",
+  "description": "An interactive, high-end cybernetic anatomy interface showcasing advanced medical cyborg subsystems with seamless biomechanical open-up animations and real-time diagnostic simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
