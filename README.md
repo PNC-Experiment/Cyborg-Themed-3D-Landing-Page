@@ -2,8 +2,6 @@
 
 <div align="center">🤖 CYBORG-THEMED-3D-LANDING-PAGE
 
-⚡ Human Intelligence Was Only Version 1.0
-
 <div align="center">
 
 # 🤖 CYBORG-THEMED-3D-LANDING-PAGE
@@ -13,6 +11,9 @@
 <img src="./public/hero-namaste.gif" width="100%" />
 
 </div>
+
+
+⚡ Human Intelligence Was Only Version 1.0
 
 🌐 Synthetic Intelligence • ⚙️ Cybernetic Evolution • 🧠 Neural Systems
 
