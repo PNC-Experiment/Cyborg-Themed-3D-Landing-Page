@@ -1,4 +1,4 @@
-<div align="center">🤖 CYBORG-THEMED-3D-LANDING-PAGE
+<div align="center">
 
 <div align="center">
 
