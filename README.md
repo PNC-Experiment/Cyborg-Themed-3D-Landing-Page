@@ -1,8 +1,7 @@
+#CYBORG-THEMED-3D-LANDING-PAGE
 <div align="center">
 
 <div align="center">
-
-# 🤖 CYBORG-THEMED-3D-LANDING-PAGE
 
 <img src="./public/hero-namaste.gif" width="100%" />
 
