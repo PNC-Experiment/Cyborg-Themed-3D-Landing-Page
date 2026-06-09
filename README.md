@@ -1,12 +1,13 @@
-#CYBORG-THEMED-3D-LANDING-PAGE
 <div align="center">
 
-<div align="center">
+## 🤖 CYBORG-THEMED-3D-LANDING-PAGE
+#
 
 <img src="./public/hero-namaste.gif" width="100%" />
 
-</div>
+### Welcome to the World of Cyborg
 
+</div>
 
 🌐 Synthetic Intelligence • ⚙️ Cybernetic Evolution • 🧠 Neural Systems
 
