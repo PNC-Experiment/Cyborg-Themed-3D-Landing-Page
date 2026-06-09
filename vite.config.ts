@@ -6,7 +6,7 @@ import { defineConfig } from 'vite';
 export default defineConfig(() => {
 return {
 // GitHub Pages repository path
-base: '/Cyborg-Landing-Page/',
+base: '/Cyborg-Themed-3D-Landing-Page/',
 
 plugins: [react(), tailwindcss()],
 
