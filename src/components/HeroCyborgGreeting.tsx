@@ -146,7 +146,7 @@ export default function HeroCyborgGreeting({ onGreetingComplete }: HeroCyborgGre
               preload="auto"
               className="w-full h-full object-cover brightness-105 contrast-[1.02] opacity-85"
               >
-                <source src="/hero-greeting.mp4" type="video/mp4" />
+                <source src={`${import.meta.env.BASE_URL}hero-greeting.mp4`} type="video/mp4" />
               </video>
             {/* Glossy terminal scanning lines overlay */}
             <div className="absolute inset-0 bg-linear-to-b from-transparent via-cyan-500/5 to-transparent bg-[size:100%_20px] pointer-events-none opacity-40 animate-pulse" />
