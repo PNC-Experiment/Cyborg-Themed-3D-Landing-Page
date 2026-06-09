@@ -1,7 +1,5 @@
 # Cyborg-Themed-3D-Landing-Page
 
-![Hero Banner](public/hero-banner.png)
-
 <div align="center">
 
 # 🤖 CYBORG-THEMED-3D-LANDING-PAGE
