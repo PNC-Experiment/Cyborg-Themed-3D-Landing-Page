@@ -2,6 +2,16 @@
 
 ![Hero Banner](public/hero-banner.png)
 
+<div align="center">
+
+# 🤖 CYBORG-THEMED-3D-LANDING-PAGE
+
+### ⚡ Human Intelligence Was Only Version 1.0
+
+<img src="./public/hero-namaste.gif" width="100%" />
+
+</div>
+
 <div align="center">🤖 CYBORG-THEMED-3D-LANDING-PAGE
 
 ⚡ Human Intelligence Was Only Version 1.0
