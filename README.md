@@ -1,6 +1,6 @@
 # Cyborg-Themed-3D-Landing-Page
 
-![Hero Banner](assets/hero-banner.png)
+![Hero Banner](public/hero-banner.png)
 
 A futuristic cybernetic landing page built with React, TypeScript, Vite, Tailwind CSS, and modern interactive UI principles.
 
