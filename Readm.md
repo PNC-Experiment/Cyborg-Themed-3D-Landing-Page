@@ -196,14 +196,9 @@ These are the project’s own assets, and they should be reused in the README so
 
 Use these image blocks in the README so the repository showcases the real artwork already included in the page.
 
-### Hero
+### Hero Cyborg Architecture 
 <p align="center">
   <img src="./src/assets/images/cyborg_zen1_archon_1780922255352.png" alt="Primary cyborg" width="100%" />
-</p>
-
-### Greeting animation
-<p align="center">
-  <img src="./public/hero-namaste.gif" alt="Greeting animation" width="420" />
 </p>
 
 ### Cyborg subsystem gallery
@@ -216,8 +211,7 @@ Use these image blocks in the README so the repository showcases the real artwor
 <p align="center">
   <img src="./src/assets/images/cyborg_hand_actuators_1780920639850.png" alt="Hand actuators" width="30%" />
   <img src="./src/assets/images/cyborg_outer_structure_1780922226234.png" alt="Outer structure" width="30%" />
-  <img src="./src/assets/images/cyborg_zen1_archon_1780922255352.png" alt="Primary cyborg" width="30%" />
-</p>
+  </p>
 
 ---
 
